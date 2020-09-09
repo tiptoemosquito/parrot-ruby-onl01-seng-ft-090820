@@ -3,4 +3,3 @@
 def parrotphrase == "Squawk!"
   print "Squawk!"
   puts "Squawk!"
-end

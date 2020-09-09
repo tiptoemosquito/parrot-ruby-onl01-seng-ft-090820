@@ -3,5 +3,5 @@
 def parrotphrase (name="Squawk!")
   puts = "Squawk!"
   return "Squawk!"
-  "Squawk!"
+  
 end

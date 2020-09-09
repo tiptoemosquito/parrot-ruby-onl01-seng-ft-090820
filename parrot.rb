@@ -2,4 +2,6 @@
 # returns the phrase
 def parrotphrase ("Squawk!")
   puts "Squawk!"
+  #puts name in this line
+  #return name on this line
 end

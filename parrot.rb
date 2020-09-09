@@ -2,4 +2,5 @@
 # returns the phrase
 def parrotphrase == "Squawk!"
   print "Squawk!"
-  puts "Squawk!"
+  puts == "Squawk!"
+end
